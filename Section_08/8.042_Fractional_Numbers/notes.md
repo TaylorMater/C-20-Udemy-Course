@@ -1,3 +1,5 @@
+For the tex equivalent of this, see here: https://www.overleaf.com/read/pjrptbkxgjmm#8fef54. It's a WIP trying to replicate the formatting from the VSCode `.md` preview that functions fine, while GitHub's does not. 
+
 # Fractional Numbers
 
 - fractional numbers are represented in floating point data structures - where a fraction of the bits assigned to the number is dedicated to significant digits, and another fraction of the number is dedicated to an exponent. This inherently causes accuracy problems for a number of reasons.
