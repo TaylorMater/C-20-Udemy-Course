@@ -5,6 +5,10 @@
 
 - another interesting [page](https://en.wikipedia.org/wiki/Floating-point_arithmetic) talks about floating point arithmetic
 
+
+# !!! Github fails to render the environments below. VSCode's markdown preview does render it though, so use that to read it. In the mean time, I will look to host this on overleaf and link to that from here.
+
+
 ## Techniques to Convert from Decimal to Binary:
 
 You can figure this out for yourself pretty easily, but it involves writing the integer part of a number as a $ \sum{x_n * 2^n} $ $\forall$ $n \in $ $ \Z_{\geq 0} $ and the fractional part of the number as $ \sum{x_n * 2^n} $ $\forall$ $n \in $ $ \Z_{\lt 0} $. Notice that you can factor out a $2$ (or a $\frac{1}{2}$ for the fractional component) and then proceed to a new number at each step, but you have a single extra term that represents the one's place in that number. For the integer component, if the number is odd, clearly that one's place is a 1, otherwise it would be an even number. For the fractional component, it isn't about odd or even, but literally if the resultant factored number is is greater than or equal to 1. 
