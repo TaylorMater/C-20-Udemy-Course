@@ -1,4 +1,4 @@
-For the tex equivalent of this, see here: https://www.overleaf.com/read/pjrptbkxgjmm#8fef54. It's a WIP trying to replicate the formatting from the VSCode `.md` preview that functions fine, while GitHub's does not. 
+For the latex compiled equivalent of this, see here: https://www.overleaf.com/read/pjrptbkxgjmm#8fef54. It's a WIP trying to replicate the formatting from the VSCode `.md` preview that functions fine, while GitHub's does not. 
 
 # Fractional Numbers
 
