@@ -8,6 +8,30 @@ https://github.com/rutura/The-C-20-Masterclass-Source-Code
 
 
 
+Other Resources for C++ and Competitive Programming:
+
+- __Beginning C++20: From Novice to Professional__ (and the accompanying git repo: https://github.com/Apress/beginning-cpp20)
+    - Ivor Horton, Peter Van Weert
+- __Introduction to Algorithms, Third Edition__
+    - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  
+    - Note worked solutions available here: https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html
+- __Competitive Programmers Handbook__
+    - Antti Laaksonen
+    - https://cses.fi/book/book.pdf 
+- learncpp.com
+    - My personal favorite resource for quick C++ explanations
+- https://en.cppreference.com/w/
+- https://cplusplus.com/
+
+
+ Problem Sets and/or Online Playgrounds:
+ - https://leetcode.com/
+ - https://www.hackerrank.com/dashboard
+ - https://cses.fi/problemset/
+ - https://projecteuler.net/
+ - https://adventofcode.com/
+ - https://codeforces.com/
+
 
 # Important Notes:
 
