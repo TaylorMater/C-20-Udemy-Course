@@ -18,7 +18,7 @@ Other Resources for C++ and Competitive Programming:
 - __Competitive Programmers Handbook__
     - Antti Laaksonen
     - https://cses.fi/book/book.pdf 
-- learncpp.com
+- [learncpp.com](https://www.learncpp.com/)
     - My personal favorite resource for quick C++ explanations
 - https://en.cppreference.com/w/
 - https://cplusplus.com/
