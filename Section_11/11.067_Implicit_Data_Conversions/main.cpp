@@ -6,7 +6,7 @@ int main(){
     //The compiler applies implicit conversions
     //when types are different in 
     //an expression.
-    
+
     //Conversions are always done from the smallest
     //to the largest type in this case int is 
     //transformed to double before the expression
@@ -27,7 +27,7 @@ int main(){
     int x;
     double y {45.44};
     x = y; // double to int
-    std::cout << "The value of x is : " << x << std::endl; // 45
+    std::cout << "The value of x is : " << x << std::endl; // this will print 45
     std::cout << "sizeof x : " << sizeof(x) << std::endl;// 4
         
    
