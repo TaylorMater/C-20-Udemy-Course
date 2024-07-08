@@ -51,7 +51,7 @@ int main(){
 
 
 
-    //
+    //have to put bit shifting in parentheses due to precedence if using cout or cin
     std::cout << "value : " << (value >> 1) << std::endl;
 
    
