@@ -22,7 +22,8 @@ Other Resources for C++ and Competitive Programming:
     - My personal favorite resource for quick C++ explanations
 - https://en.cppreference.com/w/
 - https://cplusplus.com/
-
+- https://bob.cs.sonoma.edu/IntroCompOrg-RPi/sec-Cbitshift.html
+    - A really good CS resource
 
  Problem Sets and/or Online Playgrounds:
  - https://leetcode.com/
