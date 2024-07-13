@@ -11,10 +11,12 @@ if (condition)
     true_statement;
 ```
 
-"If the condition of an if statement evaluates to Boolean value true, then true_statement is executed. If the condition instead evaluates to Boolean value false, then true_statement is skipped."
+"If the condition of an if statement evaluates to Boolean value true, then true_statement is executed. If the condition instead evaluates to Boolean value false, then true_statement is skipped." - learncpp.com
+
+We can expand that statement using brackets to specify a code block. 
 
 
-My personal preferred syntax is: 
+My personal preferred syntax to do this is: 
 
 ```
 if (some_expression){
