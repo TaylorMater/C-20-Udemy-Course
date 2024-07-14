@@ -62,3 +62,7 @@ int main()
 ```
 
 The example above is very demonstrative of what `else if` does. 
+
+But you can also see how this can be cumbersome. What if you want separate code for every integer from 1 to 50? Are you going to have 50 different else if clauses? 
+
+The solution lies in the `switch` statement, but we will see that later. 
